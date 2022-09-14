@@ -1,0 +1,3 @@
+[submodule "Unity-ObjectPooling"]
+	path = Unity-ObjectPooling
+	url = https://github.com/Gokhan-Uysal/Unity-ObjectPooling.git
